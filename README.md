@@ -31,7 +31,7 @@ I design **ETL/ELT pipelines**, relational data models, and containerized data e
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash&theme=dark&perline=12"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/>
+<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/SQL-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/C-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/C++-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Java-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Bash-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/>
 </p>
 
 ## 🗄️ Databases & Data Warehousing
@@ -40,25 +40,34 @@ I design **ETL/ELT pipelines**, relational data models, and containerized data e
 <img src="https://skillicons.dev/icons?i=postgres,mysql,azure,databricks,snowflake&theme=dark&perline=12"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/Data%20Modeling-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/Data%20Warehousing-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/MySQL-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/SQL%20Server-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Data%20Modeling-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Data%20Warehousing-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/>
 </p>
 
 ## ⚙️ Data Engineering & Big Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=spark,airflow,kafka,pandas&theme=dark&perline=12"/>
+<img src="https://skillicons.dev/icons?i=spark,hadoop,airflow,kafka,pandas,kubernetes,docker&theme=dark&perline=12"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/ETL%20/%20ELT-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/PySpark-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/Airflow-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/Kafka-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/dbt-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/>
+<img src="https://img.shields.io/badge/Hadoop-1E293B?style=for-the-badge&logo=apachehadoop&logoColor=FFE45E"/> <img src="https://img.shields.io/badge/Hive-1E293B?style=for-the-badge&logo=apachehive&logoColor=FDEE21"/> <img src="https://img.shields.io/badge/YARN-1E293B?style=for-the-badge&logo=apachehadoop&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-1E293B?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/ETL%20/%20ELT-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/PySpark-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Spark%20SQL-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Airflow-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Kafka-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/HDFS-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/MapReduce-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Pandas-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/dbt-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Batch%20Processing-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Stream%20Processing-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/>
+</p>
+
+## 🧠 Core Concepts
+
+<p>
+<img src="https://img.shields.io/badge/Data%20Modeling-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Star%20Schema-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Dimensional%20Modeling-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Normalization-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Data%20Warehouse-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Data%20Lake-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Lakehouse-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Medallion%20Architecture-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/OLTP%20vs%20OLAP-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Data%20Quality-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Data%20Governance-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Orchestration-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Data%20Pipelines-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Partitioning%20&%20Indexing-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Query%20Optimization-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Distributed%20Systems-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/>
 </p>
 
 ## 🛠️ Tools & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,azure,vscode&theme=dark&perline=12"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,azure,vscode&theme=dark&perline=12"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/Azure-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/>
+<img src="https://img.shields.io/badge/Git-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Kubernetes-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Linux-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Azure-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/VS%20Code-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/>
 </p>
 
 ## 🤖 AI & LLMs
@@ -67,7 +76,7 @@ I design **ETL/ELT pipelines**, relational data models, and containerized data e
 <img src="https://skillicons.dev/icons?i=ollama,python&theme=dark&perline=12"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/Vector%20Search-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/> <img src="https://img.shields.io/badge/Grounded%20Answers-0D1117?style=flat-square&labelColor=0D1117&color=2FD9C4"/>
+<img src="https://img.shields.io/badge/RAG-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Vector%20Search-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Ollama-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Grounded%20Answers-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/>
 </p>
 
 ---
@@ -82,7 +91,7 @@ I design **ETL/ELT pipelines**, relational data models, and containerized data e
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔗 End-to-End ETL Pipeline
 Containerized pipeline: raw CSV → clean & standardize → MySQL in Docker, with schema normalization and encoding-safe parsing.
@@ -92,7 +101,7 @@ Containerized pipeline: raw CSV → clean & standardize → MySQL in Docker, wit
 [**View repo →**](https://github.com/ahmedaliy01/end-to-end-etl-pipline)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🩺 SAGE Clinical RAG
 Hackathon system: document processing, retrieval, and grounded answers from clinical guidelines with citation verification.
@@ -102,7 +111,9 @@ Hackathon system: document processing, retrieval, and grounded answers from clin
 [**View repo →**](https://github.com/ahmedaliy01/final-project-sage-clinical-rag)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧮 StackCalc Visualizer
 Interactive visualizer for infix → postfix conversion and step-by-step stack evaluation.
@@ -110,6 +121,16 @@ Interactive visualizer for infix → postfix conversion and step-by-step stack e
 `JavaScript` `React` `Data Structures`
 
 [**Live demo →**](https://ahmedaliy01.github.io/project/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ SQL Server Data Warehouse
+End-to-end warehouse integrating CRM + ERP data through a Medallion architecture (Bronze → Silver → Gold) with a star schema (`dim_customers`, `dim_products`, `fact_sales`), data-quality handling, and documented data catalog.
+
+`SQL Server` `T-SQL` `Star Schema` `Medallion` `ETL`
+
+[**View repo →**](https://github.com/ahmedaliy01/Data-Warehouse-project)
 
 </td>
 </tr>
