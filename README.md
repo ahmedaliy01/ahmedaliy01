@@ -37,7 +37,7 @@ I design **ETL/ELT pipelines**, relational data models, and containerized data e
 ## 🗄️ Databases & Data Warehousing
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,azure,databricks,snowflake&theme=dark&perline=12"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,azure&theme=dark&perline=12"/>
 </p>
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/MySQL-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/SQL%20Server-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Data%20Modeling-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Data%20Warehousing-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/>
@@ -46,10 +46,10 @@ I design **ETL/ELT pipelines**, relational data models, and containerized data e
 ## ⚙️ Data Engineering & Big Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=spark,hadoop,airflow,kafka,pandas,kubernetes,docker&theme=dark&perline=12"/>
+<img src="https://skillicons.dev/icons?i=kafka,kubernetes,docker&theme=dark&perline=12"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Hadoop-1E293B?style=for-the-badge&logo=apachehadoop&logoColor=FFE45E"/> <img src="https://img.shields.io/badge/Hive-1E293B?style=for-the-badge&logo=apachehive&logoColor=FDEE21"/> <img src="https://img.shields.io/badge/YARN-1E293B?style=for-the-badge&logo=apachehadoop&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-1E293B?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/Spark-1E293B?style=for-the-badge&logo=apachespark&logoColor=E25A1C"/> <img src="https://img.shields.io/badge/Airflow-1E293B?style=for-the-badge&logo=apacheairflow&logoColor=017CEE"/> <img src="https://img.shields.io/badge/Hadoop-1E293B?style=for-the-badge&logo=apachehadoop&logoColor=FFE45E"/> <img src="https://img.shields.io/badge/Hive-1E293B?style=for-the-badge&logo=apachehive&logoColor=FDEE21"/> <img src="https://img.shields.io/badge/YARN-1E293B?style=for-the-badge&logo=apachehadoop&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-1E293B?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 <p>
 <img src="https://img.shields.io/badge/ETL%20/%20ELT-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/PySpark-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Spark%20SQL-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Airflow-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Kafka-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/HDFS-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/MapReduce-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Pandas-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/dbt-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Batch%20Processing-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Stream%20Processing-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/>
@@ -73,10 +73,13 @@ I design **ETL/ELT pipelines**, relational data models, and containerized data e
 ## 🤖 AI & LLMs
 
 <p>
-<img src="https://skillicons.dev/icons?i=ollama,python&theme=dark&perline=12"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/RAG-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Vector%20Search-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Ollama-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Grounded%20Answers-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/>
+<img src="https://img.shields.io/badge/Ollama-1E293B?style=for-the-badge&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-1E293B?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Vector%20Search-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/> <img src="https://img.shields.io/badge/Grounded%20Answers-1E293B?style=flat-square&color=1E293B&labelColor=1E293B"/>
 </p>
 
 ---
