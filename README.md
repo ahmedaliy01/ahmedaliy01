@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://ahmedaliy01.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2FD9C4"/></a>
-<a href="https://linkedin.com/in/ahmedaliy0"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://linkedin.com/in/ahmedaliy"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 <a href="mailto:ahmed.a.ali.tech@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
 </div>
